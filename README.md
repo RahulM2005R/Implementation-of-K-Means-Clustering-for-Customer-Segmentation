@@ -70,7 +70,6 @@ plt.title("Customer Segments")
 ![image](https://github.com/RahulM2005R/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/166299886/6895d451-b3ff-480c-bac8-474cfde2a5a1)
 ![image](https://github.com/RahulM2005R/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/166299886/a6c8e7be-831b-419c-a85b-adf385d039c8)
 ![image](https://github.com/RahulM2005R/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/166299886/d8a90b81-5169-46f1-8efe-83d016abd023)
-![image](https://github.com/RahulM2005R/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/166299886/3f45d1c6-a7c7-4dcc-b7d4-3faba30e3b35)
 
 
 
