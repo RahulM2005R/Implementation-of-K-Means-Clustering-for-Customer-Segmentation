@@ -22,7 +22,7 @@ Developed by: Rahul M R
 RegisterNumber: 2305003005
 */
 ```
-```
+```Python
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
