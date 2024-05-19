@@ -15,13 +15,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 5. Determine training and testing data set.
 6. Apply k-means clustering for customer segmentation.
 ## Program:
-```
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Rahul M R
-RegisterNumber: 2305003005
-*/
-```
+
 ```Python
 import pandas as pd
 import matplotlib.pyplot as plt
